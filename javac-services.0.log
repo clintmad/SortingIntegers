@@ -1,0 +1,2 @@
+INFO	?	main	2017-03-03T05:41:44.588Z	org.javacs.Main#connectToNode	Connected to parent using socket on port 55282
+INFO	?	main	2017-03-03T05:41:44.815Z	org.javacs.JavaLanguageServer#doLint	Lint [c:\source\my-projects\school\SortingIntegers.java]
